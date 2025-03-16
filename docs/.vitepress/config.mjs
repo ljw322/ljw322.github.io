@@ -4,6 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "JIWON Awesome Project",
   description: "A VitePress Site",
+  rewrites: {
+    'README.md': 'index.md',
+    '(.*)/README.md': '(.*)/index.md'
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
