@@ -5,6 +5,7 @@ export default defineConfig({
   title: "JIWON Awesome Project",
   description: "A VitePress Site",
   rewrites: {
+    'readme.md': 'index.md',
     'README.md': 'index.md',
     '(.*)/README.md': '(.*)/index.md'
   },
