@@ -2,13 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "이지원 블로그",
-  description: "A VitePress Site",
-  rewrites: {
-    'readme.md': 'index.md',
-    'README.md': 'index.md',
-    '(.*)/README.md': '(.*)/index.md'
-  },
+  title: "My SWIM BLOG Project",
+  description: "again blog!",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
