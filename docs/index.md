@@ -25,6 +25,6 @@ features:
 
 <div style="font-size:1.2rem; color:var(--vp-c-text-2); margin-bottom:64px">
   <p>안녕하세요</p>
-  <p>이지원입니다. ㅎㅎ.. 블로그 ..22</p>
+  <p>이지원입니다. ㅎㅎ.. 블로그야 떠져라</p>
   <br>
 </div>

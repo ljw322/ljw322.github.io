@@ -2,8 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/docs/',  // 실제 저장소 이름
-  title: "JIWON Awesome Project!!!",
+  title: "이지원 블로그",
   description: "A VitePress Site",
   rewrites: {
     'readme.md': 'index.md',
