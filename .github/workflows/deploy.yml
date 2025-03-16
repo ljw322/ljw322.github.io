@@ -48,8 +48,8 @@ jobs:
         run: npm run docs:build # 또는 pnpm docs:build / yarn docs:build / bun run docs:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        #with:
-        #  path: docs/.vitepress/dist
+        with:
+          path: .vitepress/dist
 
   # 배포 작업
   deploy:
