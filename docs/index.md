@@ -25,6 +25,6 @@ features:
 
 <div style="font-size:1.2rem; color:var(--vp-c-text-2); margin-bottom:64px">
   <p>안녕하세요</p>
-  <p>3년차 개발자 이지원입니다.</p>
+  <p>이지원입니다.</p>
   <br>
 </div>
