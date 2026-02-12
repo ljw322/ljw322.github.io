@@ -1,12 +1,16 @@
+---
+title: 네이버 블로그 모음 | 수영, 여행, 월간일지
+description: 수영 원정 후기, 여행일지, 월간 기록을 정리한 네이버 블로그 링크 모음 페이지입니다.
+---
+
 # 네이버블로그
 
 https://blog.naver.com/ez_swim
 
 ## 월간일지
 
-::: details 2026-01
-https://blog.naver.com/PostView.naver?blogId=ez_swim&logNo=224167995402&categoryNo=1&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1
-:::
+### 2026-01
+- https://blog.naver.com/PostView.naver?blogId=ez_swim&logNo=224167995402&categoryNo=1&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1
 
 ::: details 2025-12
 https://blog.naver.com/PostView.naver?blogId=ez_swim&logNo=224143435556&categoryNo=1&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1
