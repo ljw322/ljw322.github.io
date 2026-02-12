@@ -3,11 +3,14 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "again blog!"
-  tagline: My great project tagline
+  name: "엷은안개 블로그"
+  text: ""
+  tagline: 
   actions:
     - theme: brand
+      text: NaverBlog
+      link: /naver-blog
+    - theme: alt
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
@@ -15,17 +18,17 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Swim
+    details: 수영하자
+  - title: Run
+    details: 러닝하자
+  - title: Cycle
+    details: 자전거타자
 ---
 
 
 <div style="font-size:1.2rem; color:var(--vp-c-text-2); margin-bottom:64px">
   <p>안녕하세요</p>
-  <p>RESTART BLOG</p>
+  <p>철인될거야 블로그입니다.</p>
   <br>
 </div>
