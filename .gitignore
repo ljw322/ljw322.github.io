@@ -1,4 +1,6 @@
 node_modules/
 .idea/
 .vitepress/cache/
+.vitepress/dist
+dist
 .vitepress/cache/deps/_metadata.json

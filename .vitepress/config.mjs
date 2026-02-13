@@ -49,4 +49,8 @@ export default defineConfig({
     hostname: 'https://ljw322.github.io',
   },
 
+  build: {
+    outDir: 'dist', // 기본값 dist
+  },
+
 })
