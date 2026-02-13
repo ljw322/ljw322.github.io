@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 
 
 export default defineConfig({
+  base: '/',
   title: "엷은안개",
   description: "수영장 자유수영 후기, 수영대회 리뷰, 여행일지를 기록하는 블로그입니다.",
 
