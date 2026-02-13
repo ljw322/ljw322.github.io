@@ -8,14 +8,14 @@ hero:
   tagline: 
   actions:
     - theme: brand
-      text: NaverBlog
-      link: /naver-blog
+      text: Swim
+#      link: /naver-blog
     - theme: alt
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Run
+#      link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Cycle
+#      link: /api-examples
 
 features:
   - title: Swim
@@ -29,6 +29,6 @@ features:
 
 <div style="font-size:1.2rem; color:var(--vp-c-text-2); margin-bottom:64px">
   <p>안녕하세요</p>
-  <p>철인될거야 블로그입니다.</p>
+  <p>엷은안개 블로그입니다.</p>
   <br>
 </div>
